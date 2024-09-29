@@ -1,5 +1,6 @@
 # Hi there 👋, I’m Rob
 
+** Since GitHub flagged my account (for no reason at all and their client staff are to slow), I've created a brand new account to share my projects.**
 
 I'm from Monterrey, Mexico. I'm currently studying B.S in Data Science and Mathematics Enginnering at Tecnologico de Monterrey. I work in many project during periods of time but I mostly work on Vanttec creating computer vision tools for the SDV project and as a Data Analysis Intern at Tecnologico de Monterrey. 
 
